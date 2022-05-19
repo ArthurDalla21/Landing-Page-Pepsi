@@ -1,4 +1,4 @@
-# Landing-Page-Pepsi
+# Landing Page Pepsi
 
 ## 💻 Projeto
 
